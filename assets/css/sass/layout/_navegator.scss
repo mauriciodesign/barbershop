@@ -1,0 +1,37 @@
+/*Navegator*/
+
+.navbar {
+    background: $eerie-black;
+    padding: 20px;
+
+    .navbar-brand {
+        width: 79px;
+    }
+}
+
+.nav-item a {
+    color: $white;
+
+    &:hover {
+        color: $ruddy-pink
+    }
+}
+
+.navbar-toggler-icon {
+    width: auto;
+}
+
+#navbarNav {
+    margin-top: 20px;
+    text-align: center;
+
+    .active a {
+        color: $ruddy-pink;
+    }
+}
+
+@media (min-width: 992px) {
+    #navbarNav {
+        margin-top: 0px;
+    }
+}

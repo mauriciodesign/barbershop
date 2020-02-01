@@ -1,0 +1,18 @@
+/*Main section*/
+
+.main {
+    .main-date {
+        @include font($large, $regular-font);
+        margin: 65px 0;
+    }
+
+    p {
+        margin-bottom: 50px;
+        @include font($medium, $light-font);
+        color: $raisin-black;
+    }
+
+    span {
+        color: $ruddy-pink;
+    }
+}

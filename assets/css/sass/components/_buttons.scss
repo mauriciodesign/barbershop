@@ -1,0 +1,28 @@
+.main_buttons {
+    margin: 80px 0;
+    a {
+        display: inline-block;
+        margin: 10px 0;
+        background: $nickel;
+        padding: 12px;
+        border-radius: 50px;
+        color: #fff;
+
+        &:hover {
+            background: $gray;
+            color: $white;
+        }
+
+        &:focus {
+            background: $nickel;
+            outline: 0;
+            box-shadow: 0 0 0 3px $gray;
+        }
+    }
+}
+
+@media (min-width: 353px) {
+    .main_buttons a {
+        margin: 0px 10px 10px 0;
+    }
+}

@@ -1,0 +1,35 @@
+/* header*/
+
+.header {
+  background: url(../img/post-image.jpg) center top;
+  background-size: cover;
+  height: 100vh;
+  @include flex-box(center, center, column);
+
+  .header__title {
+    text-align: center;
+    color: $white;
+    @include font($xx-large, $bold);
+    font-style: $italic;
+    width: 90%;
+  }
+
+  .header__icon {
+    position: relative;
+    top: 25%;
+  }
+}
+
+
+@media (min-width: 576px) {
+  .header .header__title {
+    width: 70%;
+  }
+}
+
+@media (min-width: 768px) {
+  .header .header__title {
+    @include font($xxx-large-font, $bold);
+    width: 680px;
+  }
+}
