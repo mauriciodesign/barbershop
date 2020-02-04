@@ -1,7 +1,7 @@
 /*Main section*/
 
 .main {
-    .main-date {
+    .main__date {
         @include font($large, $regular-font);
         margin: 65px 0;
     }
