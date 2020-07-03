@@ -19,7 +19,7 @@ https://code.visualstudio.com/
 
 ### Vista Proyecto 💥
 
-[ver proyecto](https://mauriciodesign.github.io/barbershop/)
+[ver proyecto](https://mauriciodesign.github.io/barbershop/) :computer:
 
 ------
 
