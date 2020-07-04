@@ -15,13 +15,21 @@ Maquetado desde cero de la sección blog. Se utiliza el framework de CSS3 Bootst
 
 https://code.visualstudio.com/
 
-------
 
-### Vista Proyecto 💥
+
+## Clonar proyecto <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt=":octocat:" style="zoom: 60%;" />
+
+```
+git clone https://github.com/mauriciodesign/barbershop.git
+```
+
+
+
+## Vista Proyecto 💥
 
 [ver proyecto](https://mauriciodesign.github.io/barbershop/) :computer:
 
-![Barbershop](https://user-images.githubusercontent.com/47857535/86500318-3f03a380-bd5e-11ea-8748-e4af6356f849.png)
+![Barbershop](https://user-images.githubusercontent.com/47857535/86501874-2b126e80-bd6b-11ea-865b-93ae30661ac5.png)
 
 ------
 
